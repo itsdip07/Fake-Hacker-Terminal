@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fake Hacker Terminal 💻
 
 A fun Java console project that simulates movie-style hacking.
